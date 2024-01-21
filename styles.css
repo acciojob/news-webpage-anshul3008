@@ -10,8 +10,7 @@ body{
 
 .main{
 display: flex;
-justify-content: space-between;
-margin: 10px;
+	
 }
 
 .latest-news-section{
